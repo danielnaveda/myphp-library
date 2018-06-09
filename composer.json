@@ -2,7 +2,7 @@
     "name": "danielnaveda/myphp-library",
     "autoload": {
         "psr-0" : {
-            "danielnaveda\\myphp-library" : "src"
+            "danielnaveda\\myphp_library" : "src"
         }
     }
 }
