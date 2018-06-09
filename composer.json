@@ -1,12 +1,8 @@
 {
     "name": "daniel/myphp-library",
-    "description": "Simple php library",
-    "type": "library",
-    "authors": [
-        {
-            "name": "Daniel",
-            "email": "myemail@email.com"
+    "autoload": {
+        "psr-0" : {
+            "danielnaveda\\myphp-library" : "src"
         }
-    ],
-    "require": {}
+    }
 }
