@@ -1,0 +1,12 @@
+{
+    "name": "daniel/myphp-library",
+    "description": "Simple php library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "myemail@email.com"
+        }
+    ],
+    "require": {}
+}
