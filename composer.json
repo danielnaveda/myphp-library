@@ -1,8 +1,8 @@
 {
     "name": "danielnaveda/myphp_library",
     "autoload": {
-        "psr-0" : {
-            "danielnaveda\\myphp_library" : "src"
+        "psr-4" : {
+            "danielnaveda\\myphp_library\\" : "src/"
         }
     }
 }
