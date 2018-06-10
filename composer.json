@@ -1,5 +1,5 @@
 {
-    "name": "danielnaveda/myphp-library",
+    "name": "danielnaveda/myphp_library",
     "autoload": {
         "psr-0" : {
             "danielnaveda\\myphp_library" : "src"
